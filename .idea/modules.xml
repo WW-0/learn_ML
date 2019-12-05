@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://E:/01 DL/CourseraML-master-py/.idea/CourseraML-master-py.iml" filepath="E:/01 DL/CourseraML-master-py/.idea/CourseraML-master-py.iml" />
+      <module fileurl="file://E:/01 DL/Dive-into-DL-PyTorch-master/.idea/Dive-into-DL-PyTorch-master.iml" filepath="E:/01 DL/Dive-into-DL-PyTorch-master/.idea/Dive-into-DL-PyTorch-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/learn_ML.iml" filepath="$PROJECT_DIR$/.idea/learn_ML.iml" />
     </modules>
   </component>
